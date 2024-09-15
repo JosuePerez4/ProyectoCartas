@@ -1,0 +1,15 @@
+[
+	{"numero": "1","carta": "As", "0"},
+	{"numero": "2","carta": "1", "0"},
+	{"numero": "3","carta": "2", "0"},
+	{"numero": "4","carta": "3", "0"},
+	{"numero": "5","carta": "4", "0"}
+	{"numero": "6","carta": "5", "0"},
+	{"numero": "7","carta": "6", "0"},
+	{"numero": "8","carta": "7", "0"},
+	{"numero": "9","carta": "8", "0"},
+	{"numero": "10","carta": "9", "0"}
+	{"numero": "J","carta": "10", "0"},
+	{"numero": "Q","carta": "11", "0"},
+	{"numero": "K","carta": "12", "0"},
+]
