@@ -3,7 +3,6 @@ document.querySelector('#registrar').addEventListener('click', function () {
     pintarTabla();
 });
 
-
 $(".btncarta").click(function () {
     var datos = localStorage.getItem('datos');
 
